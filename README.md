@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi there! 👋 I'm Tomás Paixão Borges
 
 I'm a PhD student in Political Science at [IESP-UERJ](https://iesp.uerj.br/) and currently a visiting student at [MIT](https://mit.edu/) as a CAPES PDSE Fellow. I also work as a Data Scientist at [Quaest Pesquisa e Consultoria](https://quaest.com.br/).
 
